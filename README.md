@@ -1,2 +1,2 @@
 # ikn_showroomVR
-unity3d repository for ikn vr-showroom project 
+Unity3D project files for a virtual reality showroom of a clinker production machine company. 
